@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\BlackWizard.cs" />
+    <Compile Include="Entities\Hero.cs" />
+    <Compile Include="Entities\Knight.cs" />
+    <Compile Include="Entities\Wizard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
