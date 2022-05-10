@@ -19,7 +19,7 @@ namespace desafioDeProjetoGFT1
             Console.WriteLine(arus.Attack());
             Console.WriteLine(wizard.Attack(7));
             Console.WriteLine(blackWizard.Attack());
-            
+
 
             Console.ReadKey();
         }
